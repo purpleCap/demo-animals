@@ -6,3 +6,4 @@
 - Meow
 - Mocha
 - George The Frog
+- Wyatt
